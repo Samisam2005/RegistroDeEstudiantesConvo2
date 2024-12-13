@@ -1,0 +1,22 @@
+C:\Users\Angelo\Desktop\CONVOCATORIA 2\RegistroDeEstudiantes\RegistroDeEstudiantes\bin\Debug\RegistroDeEstudiantes.exe.config
+C:\Users\Angelo\Desktop\CONVOCATORIA 2\RegistroDeEstudiantes\RegistroDeEstudiantes\bin\Debug\RegistroDeEstudiantes.exe
+C:\Users\Angelo\Desktop\CONVOCATORIA 2\RegistroDeEstudiantes\RegistroDeEstudiantes\bin\Debug\RegistroDeEstudiantes.pdb
+C:\Users\Angelo\Desktop\CONVOCATORIA 2\RegistroDeEstudiantes\RegistroDeEstudiantes\obj\Debug\RegistroDeEstudiantes.csproj.AssemblyReference.cache
+C:\Users\Angelo\Desktop\CONVOCATORIA 2\RegistroDeEstudiantes\RegistroDeEstudiantes\obj\Debug\RegistroDeEstudiantes.Form1.resources
+C:\Users\Angelo\Desktop\CONVOCATORIA 2\RegistroDeEstudiantes\RegistroDeEstudiantes\obj\Debug\RegistroDeEstudiantes.Properties.Resources.resources
+C:\Users\Angelo\Desktop\CONVOCATORIA 2\RegistroDeEstudiantes\RegistroDeEstudiantes\obj\Debug\RegistroDeEstudiantes.csproj.GenerateResource.cache
+C:\Users\Angelo\Desktop\CONVOCATORIA 2\RegistroDeEstudiantes\RegistroDeEstudiantes\obj\Debug\RegistroDeEstudiantes.csproj.CoreCompileInputs.cache
+C:\Users\Angelo\Desktop\CONVOCATORIA 2\RegistroDeEstudiantes\RegistroDeEstudiantes\obj\Debug\RegistroDeEstudiantes.exe
+C:\Users\Angelo\Desktop\CONVOCATORIA 2\RegistroDeEstudiantes\RegistroDeEstudiantes\obj\Debug\RegistroDeEstudiantes.pdb
+C:\Users\Angelo\Desktop\CONVOCATORIA 2\RegistroDeEstudiantes\RegistroDeEstudiantes\obj\Debug\RegistroDeEstudiantes.FormEstudiante.resources
+C:\Users\Angelo\Desktop\CONVO2\CONVOCATORIA 2\CONVOCATORIA 2\RegistroDeEstudiantes\RegistroDeEstudiantes\bin\Debug\RegistroDeEstudiantes.exe.config
+C:\Users\Angelo\Desktop\CONVO2\CONVOCATORIA 2\CONVOCATORIA 2\RegistroDeEstudiantes\RegistroDeEstudiantes\bin\Debug\RegistroDeEstudiantes.exe
+C:\Users\Angelo\Desktop\CONVO2\CONVOCATORIA 2\CONVOCATORIA 2\RegistroDeEstudiantes\RegistroDeEstudiantes\bin\Debug\RegistroDeEstudiantes.pdb
+C:\Users\Angelo\Desktop\CONVO2\CONVOCATORIA 2\CONVOCATORIA 2\RegistroDeEstudiantes\RegistroDeEstudiantes\obj\Debug\RegistroDeEstudiantes.csproj.AssemblyReference.cache
+C:\Users\Angelo\Desktop\CONVO2\CONVOCATORIA 2\CONVOCATORIA 2\RegistroDeEstudiantes\RegistroDeEstudiantes\obj\Debug\RegistroDeEstudiantes.Form1.resources
+C:\Users\Angelo\Desktop\CONVO2\CONVOCATORIA 2\CONVOCATORIA 2\RegistroDeEstudiantes\RegistroDeEstudiantes\obj\Debug\RegistroDeEstudiantes.FormEstudiante.resources
+C:\Users\Angelo\Desktop\CONVO2\CONVOCATORIA 2\CONVOCATORIA 2\RegistroDeEstudiantes\RegistroDeEstudiantes\obj\Debug\RegistroDeEstudiantes.Properties.Resources.resources
+C:\Users\Angelo\Desktop\CONVO2\CONVOCATORIA 2\CONVOCATORIA 2\RegistroDeEstudiantes\RegistroDeEstudiantes\obj\Debug\RegistroDeEstudiantes.csproj.GenerateResource.cache
+C:\Users\Angelo\Desktop\CONVO2\CONVOCATORIA 2\CONVOCATORIA 2\RegistroDeEstudiantes\RegistroDeEstudiantes\obj\Debug\RegistroDeEstudiantes.csproj.CoreCompileInputs.cache
+C:\Users\Angelo\Desktop\CONVO2\CONVOCATORIA 2\CONVOCATORIA 2\RegistroDeEstudiantes\RegistroDeEstudiantes\obj\Debug\RegistroDeEstudiantes.exe
+C:\Users\Angelo\Desktop\CONVO2\CONVOCATORIA 2\CONVOCATORIA 2\RegistroDeEstudiantes\RegistroDeEstudiantes\obj\Debug\RegistroDeEstudiantes.pdb

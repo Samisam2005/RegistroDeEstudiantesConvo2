@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Angelo\\Desktop\\CONVO2\\CONVOCATORIA 2\\CONVOCATORIA 2\\RegistroDeEstudiantes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74F7822F-8ED5-41EA-B385-1FC70673F907}|RegistroDeEstudiantes\\RegistroDeEstudiantes.csproj|c:\\users\\angelo\\desktop\\convo2\\convocatoria 2\\convocatoria 2\\registrodeestudiantes\\registrodeestudiantes\\formestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74F7822F-8ED5-41EA-B385-1FC70673F907}|RegistroDeEstudiantes\\RegistroDeEstudiantes.csproj|solutionrelative:registrodeestudiantes\\formestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F7822F-8ED5-41EA-B385-1FC70673F907}|RegistroDeEstudiantes\\RegistroDeEstudiantes.csproj|C:\\Users\\Angelo\\Desktop\\CONVO2\\CONVOCATORIA 2\\CONVOCATORIA 2\\RegistroDeEstudiantes\\registrodeestudiantes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{74F7822F-8ED5-41EA-B385-1FC70673F907}|RegistroDeEstudiantes\\RegistroDeEstudiantes.csproj|solutionrelative:registrodeestudiantes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F7822F-8ED5-41EA-B385-1FC70673F907}|RegistroDeEstudiantes\\RegistroDeEstudiantes.csproj|C:\\Users\\Angelo\\Desktop\\CONVO2\\CONVOCATORIA 2\\CONVOCATORIA 2\\RegistroDeEstudiantes\\registrodeestudiantes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74F7822F-8ED5-41EA-B385-1FC70673F907}|RegistroDeEstudiantes\\RegistroDeEstudiantes.csproj|solutionrelative:registrodeestudiantes\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F7822F-8ED5-41EA-B385-1FC70673F907}|RegistroDeEstudiantes\\RegistroDeEstudiantes.csproj|C:\\Users\\Angelo\\Desktop\\CONVO2\\CONVOCATORIA 2\\CONVOCATORIA 2\\RegistroDeEstudiantes\\registrodeestudiantes\\formestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{74F7822F-8ED5-41EA-B385-1FC70673F907}|RegistroDeEstudiantes\\RegistroDeEstudiantes.csproj|solutionrelative:registrodeestudiantes\\formestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74F7822F-8ED5-41EA-B385-1FC70673F907}|RegistroDeEstudiantes\\RegistroDeEstudiantes.csproj|C:\\Users\\Angelo\\Desktop\\CONVO2\\CONVOCATORIA 2\\CONVOCATORIA 2\\RegistroDeEstudiantes\\registrodeestudiantes\\estdiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74F7822F-8ED5-41EA-B385-1FC70673F907}|RegistroDeEstudiantes\\RegistroDeEstudiantes.csproj|solutionrelative:registrodeestudiantes\\estdiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\Desktop\\CONVO2\\CONVOCATORIA 2\\CONVOCATORIA 2\\RegistroDeEstudiantes\\RegistroDeEstudiantes\\Form1.cs",
+              "RelativeDocumentMoniker": "RegistroDeEstudiantes\\Form1.cs",
+              "ToolTip": "C:\\Users\\Angelo\\Desktop\\CONVO2\\CONVOCATORIA 2\\CONVOCATORIA 2\\RegistroDeEstudiantes\\RegistroDeEstudiantes\\Form1.cs",
+              "RelativeToolTip": "RegistroDeEstudiantes\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T05:20:02.49Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Angelo\\Desktop\\CONVO2\\CONVOCATORIA 2\\CONVOCATORIA 2\\RegistroDeEstudiantes\\RegistroDeEstudiantes\\Form1.cs",
+              "RelativeDocumentMoniker": "RegistroDeEstudiantes\\Form1.cs",
+              "ToolTip": "C:\\Users\\Angelo\\Desktop\\CONVOCATORIA 2\\RegistroDeEstudiantes\\RegistroDeEstudiantes\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\CONVOCATORIA 2\\RegistroDeEstudiantes\\RegistroDeEstudiantes\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T05:13:18.153Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormEstudiante.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\Desktop\\CONVO2\\CONVOCATORIA 2\\CONVOCATORIA 2\\RegistroDeEstudiantes\\RegistroDeEstudiantes\\FormEstudiante.cs",
+              "RelativeDocumentMoniker": "RegistroDeEstudiantes\\FormEstudiante.cs",
+              "ToolTip": "C:\\Users\\Angelo\\Desktop\\CONVO2\\CONVOCATORIA 2\\CONVOCATORIA 2\\RegistroDeEstudiantes\\RegistroDeEstudiantes\\FormEstudiante.cs",
+              "RelativeToolTip": "RegistroDeEstudiantes\\FormEstudiante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T05:59:23.917Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormEstudiante.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Angelo\\Desktop\\CONVO2\\CONVOCATORIA 2\\CONVOCATORIA 2\\RegistroDeEstudiantes\\RegistroDeEstudiantes\\FormEstudiante.cs",
+              "RelativeDocumentMoniker": "RegistroDeEstudiantes\\FormEstudiante.cs",
+              "ToolTip": "C:\\Users\\Angelo\\Desktop\\CONVOCATORIA 2\\RegistroDeEstudiantes\\RegistroDeEstudiantes\\FormEstudiante.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\CONVOCATORIA 2\\RegistroDeEstudiantes\\RegistroDeEstudiantes\\FormEstudiante.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T05:57:44.292Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Estdiante.cs",
+              "DocumentMoniker": "C:\\Users\\Angelo\\Desktop\\CONVO2\\CONVOCATORIA 2\\CONVOCATORIA 2\\RegistroDeEstudiantes\\RegistroDeEstudiantes\\Estdiante.cs",
+              "RelativeDocumentMoniker": "RegistroDeEstudiantes\\Estdiante.cs",
+              "ToolTip": "C:\\Users\\Angelo\\Desktop\\CONVO2\\CONVOCATORIA 2\\CONVOCATORIA 2\\RegistroDeEstudiantes\\RegistroDeEstudiantes\\Estdiante.cs",
+              "RelativeToolTip": "RegistroDeEstudiantes\\Estdiante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T05:51:17.369Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
